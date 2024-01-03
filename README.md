@@ -1,4 +1,13 @@
 # Initial Backend
+## Dependencies/Packages Installed
+- Nodejs
+- ExpressJS
+- Typescript
+- Morgan (not required in production)
+- Cors
+- Mongoose (you can uninstall it for sql based project)
+- JWT
+- Dotenv
 ## Installation
 1. Clone Repo: `git clone [URL]`
 2. Install Dependencies: `pnpm install` 
